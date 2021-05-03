@@ -1,7 +1,10 @@
 {
   "name": "com.example.nuget-consumer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An example package that depends on other org.nuget packages",
   "author": "Favo Yang",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "org.nuget.system.memory": "4.5.4"
+  }
 }
