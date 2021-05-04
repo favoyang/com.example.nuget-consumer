@@ -6,6 +6,8 @@
 
 OpenUPM uplinks to the UnityNuGet registry, so you can install all `org.nuget` dependencies directly via OpenUPM registry.
 
+![image](https://user-images.githubusercontent.com/125390/116964544-5c86fe00-acde-11eb-9d73-810fedd2f7b9.png)
+
 Install `com.example.nuget-consumer` via openupm-cli
 
 ```sh
