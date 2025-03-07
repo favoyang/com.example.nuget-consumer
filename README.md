@@ -1,6 +1,6 @@
 # Demo UnityNuGet Registry Uplinks
 
-`org.nuget.system.memory` is a package (with dependencies) that hosting on [UnityNuGet](https://github.com/xoofx/UnityNuGet) registry https://unitynuget-registry.azurewebsites.net/
+`org.nuget.system.memory` is a package (with dependencies) that hosting on [UnityNuGet](https://github.com/xoofx/UnityNuGet) registry https://unitynuget-registry.openupm.com/
 
 `com.example.nuget-consumer` is an example package that depends on `org.nuget.system.memory`.
 
